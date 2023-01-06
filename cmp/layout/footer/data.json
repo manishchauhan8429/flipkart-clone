@@ -1,0 +1,568 @@
+[
+    {
+        "id":"1",
+        "title":"MOST SEARCHED FOR ON FLIPKART",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"Flipkart Axis Bank Super Elite Credit card"
+            },
+            {
+                "id":2,
+                "desc":"Bounce Infinity E1"
+            },
+            {
+                "id":3,
+                "desc":"Buy Laptop on EMI"
+            },
+            {
+                "id":4,
+                "desc":"vivo T1X"
+            },
+            {
+                "id":5,
+                "desc":"OPPO Reno8 5G"
+            },
+            {
+                "id":6,
+                "desc":"OPPO Reno8 Pro 5G"
+            },
+            {
+                "id":7,
+                "desc":"Nothing Phone 1"
+            },
+            {
+                "id":8,
+                "desc":"Sell Old Mobile Phones"
+            },
+            {
+                "id":9,
+                "desc":"ASUS TUF Gaming F15"
+            },
+            {
+                "id":10,
+                "desc":"Core i5 10th Gen"
+            },
+            {
+                "id":11,
+                "desc":"Electronics Store"
+            },
+            {
+                "id":12,
+                "desc":"OPPO A16K"
+            },
+            {
+                "id":13,
+                "desc":"Vivo Y33T"
+            },
+            {
+                "id":14,
+                "desc":"OPPO Reno7 5G"
+            },
+            {
+                "id":15,
+                "desc":"Bathroom Exhaust Fan"
+            },
+            {
+                "id":16,
+                "desc":"Samsung Window AC"
+            },
+            {
+                "id":17,
+                "desc":"OPPO Reno7 Pro 5G"
+            },
+            {
+                "id":18,
+                "desc":"iPhone 13"
+            },
+            {
+                "id":19,
+                "desc":"iPhone 13 Pro"
+            },
+            {
+                "id":20,
+                "desc":"iPhone 13 Pro Max"
+            },
+            {
+                "id":21,
+                "desc":"iPhone 13 Mini"
+            },
+            {
+                "id":22,
+                "desc":"Google Pixel 6a covers"
+            },
+            {
+                "id":23,
+                "desc":"Flipkart Quick"
+            },
+            {
+                "id":24,
+                "desc":"Books"
+            },
+            {
+                "id":25 ,
+                "desc":"Flipkart Help Centre"
+            },
+            {
+                "id":26,
+                "desc":"Online Boat Store"
+            },
+            {
+                "id":27,
+                "desc":"Covers from Rs 99"
+            },
+            {
+                "id":28,
+                "desc":"Flipkart Track Orders"
+            },
+            {
+                "id":29,
+                "desc":"Flipkart Manage Orders"
+            },
+            {
+                "id":30,
+                "desc":"Flipkart Return Orders"
+            },
+            {
+                "id":31,
+                "desc":"Flipkart Gift Cards Store"
+            },
+            {
+                "id":32,
+                "desc":"Flipkart Axis Bank Credit Card"
+            },
+            {
+                "id":33,
+                "desc":"Flipkart Pay Later"
+            }           
+        ]
+        
+    },
+    {
+        "id":"2",
+        "title":"MOBILE",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"iPhone 12 Pro 512GB"
+            },
+            {
+                "id":2,
+                "desc":"Bounce Infinity E1"
+            },
+            {
+                "id":3,
+                "desc":"iPhone 12 128GB"
+            },
+            {
+                "id":4,
+                "desc":"Vivo Y91i"
+            },
+            {
+                "id":5,
+                "desc":"Vivo Y11"
+            },
+            {
+                "id":6,
+                "desc":"Vivo Y15"
+            },
+            {
+                "id":7,
+                "desc":"Vivo Y50"
+            },
+            {
+                "id":8,
+                "desc":"Vivo Y12"
+            },
+            {
+                "id":9,
+                "desc":"Reno2 F"
+            },
+            {
+                "id":10,
+                "desc":"Oppo A12"
+            },
+            {
+                "id":12,
+                "desc":"OPPO Reno8 5G"
+            },
+            {
+                "id":13,
+                "desc":"Oppo F15"
+            },
+            {
+                "id":14,
+                "desc":"Oppo A31"
+            },
+            {
+                "id":15,
+                "desc":"Samsung A71"
+            },
+            {
+                "id":16,
+                "desc":"Samsung A51"
+            },
+            {
+                "id":17,
+                "desc":"Samsung A31"
+            },
+            {
+                "id":18,
+                "desc":"Realme X2"
+            },
+            {
+                "id":19,
+                "desc":"iPhone 11"
+            },
+            {
+                "id":20,
+                "desc":"iPhone 11 Pro"
+            },
+            {
+                "id":21,
+                "desc":"iPhone 11 Pro Max"
+            },
+            {
+                "id":22,
+                "desc":"Mobile Offers"
+            },
+            {
+                "id":23,
+                "desc":"iphone x"
+            },
+            {
+                "id":24,
+                "desc":"4G Mobile"
+            },
+            {
+                "id":53 ,
+                "desc":"Nokia Mobile"
+            },
+            {
+                "id":25,
+                "desc":"Samsung Mobile"
+            },
+            {
+                "id":26,
+                "desc":"iphone"
+            },
+            {
+                "id":27,
+                "desc":"Oppo Mobile"
+            },
+            {
+                "id":28,
+                "desc":"Vivo Mobile"
+            } 
+        ]
+        
+    },
+    {
+        "id":"3",
+        "title":"CAMERA",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"GoPro Action Camera"
+            },
+            {
+                "id":2,
+                "desc":"Nikon Camera"
+            },
+            {
+                "id":3,
+                "desc":"Canon Camera"
+            },
+            {
+                "id":4,
+                "desc":"Sony Camera"
+            },
+            {
+                "id":5,
+                "desc":"Canon DSLR"
+            },
+            {
+                "id":6,
+                "desc":"Nikon DSLR"
+            } 
+            
+            
+        ]
+        
+    },
+    {
+        "id":"4",
+        "title":"LAPTOPS",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"MacBook Pro M2"
+            },
+            {
+                "id":2,
+                "desc":"acer Ryzen 3 Dual Core 3250U - (8 GB/256 GB SSD/Windows 11 Home) Z2-493 Thin and Light Laptop"
+            },
+            {
+                "id":3,
+                "desc":" ASUS Vivobook S14 OLED (2022)"
+            },
+            {
+                "id":4,
+                "desc":"ASUS Zenbook 14 OLED (2022)"
+            },
+            {
+                "id":5,
+                "desc":"Realme Book Prime Core i5 11th Gen"
+            },
+            {
+                "id":6,
+                "desc":"Microsoft Surface Go Pentium 128GB"
+            },
+            {
+                "id":7,
+                "desc":"Branded LaptopsApple"
+            },
+            {
+                "id":8,
+                "desc":" LaptopsAcer"
+            },
+            {
+                "id":9,
+                "desc":"LaptopsLenovo"
+            },
+            {
+                "id":10,
+                "desc":"LaptopsDell"
+            },
+            {
+                "id":11,
+                "desc":"LaptopsAsus"
+            },
+            {
+                "id":12,
+                "desc":"LaptopsHP"
+            },
+            {
+                "id":13,
+                "desc":"LaptopsGaming"
+            },
+            {
+                "id":14,
+                "desc":"Laptops"
+            },
+            {
+                "id":15,
+                "desc":"Dell latest laptops 2022"
+            },
+            {
+                "id":16,
+                "desc":"HP latest laptops 2022"
+            },
+            {
+                "id":17,
+                "desc":"Infinix"
+            },
+            {
+                "id":18,
+                "desc":"INBook X1 Neo Series Celeron Quad Core - (8 GB/256 GB SSD/Windows 11 Home)"
+            }, 
+            {
+                "id":19,
+                "desc":"XL22 Thin and Light Laptop"
+            },
+            {
+                "id":20,
+                "desc":"Microsoft Laptops"
+            },
+            {
+                "id":21,
+                "desc":"12th Gen Intel Core Laptops"
+            }            
+        ]
+        
+    },
+    {
+        "id":"5",
+        "title":"TVS",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"Nokia"
+            },
+            {
+                "id":2,
+                "desc":"TVPanasonic "
+            },
+            {
+                "id":3,
+                "desc":"TVThomson"
+            },
+            {
+                "id":4,
+                "desc":"TVVu"
+            },
+            {
+                "id":5,
+                "desc":"TVRealme"
+            },
+            {
+                "id":6,
+                "desc":"TVMotorola"
+            },
+            {
+                "id":7,
+                "desc":"TVOnePlus"
+            },
+            {
+                "id":8,
+                "desc":"TVsLG"
+            },
+            {
+                "id":9,
+                "desc":"TVTVSony"
+            },
+            {
+                "id":10,
+                "desc":"TVSamsung"
+            },
+            {
+                "id":11,
+                "desc":"TVAndroid"
+            },
+            {
+                "id":12,
+                "desc":"TelevisionIffalcon"
+            },
+            {
+                "id":13,
+                "desc":"TVTvMi"
+            },
+            {
+                "id":14,
+                "desc":"Laptops"
+            },
+            {
+                "id":15,
+                "desc":"Dell latest laptops 2022"
+            },
+            {
+                "id":16,
+                "desc":"HP latest laptops 2022"
+            },
+            {
+                "id":17,
+                "desc":"Infinix"
+            },
+            {
+                "id":18,
+                "desc":"INBook X1 Neo Series Celeron Quad Core - (8 GB/256 GB SSD/Windows 11 Home)"
+            }, 
+            {
+                "id":19,
+                "desc":"XL22 Thin and Light Laptop"
+            },
+            {
+                "id":20,
+                "desc":"Microsoft Laptops"
+            },
+            {
+                "id":21,
+                "desc":"12th Gen Intel Core Laptops"
+            }            
+        ]
+        
+    },
+    {
+        "id":"6",
+        "title":"LARGE APPLIANCES",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"Nokia"
+            },
+            {
+                "id":2,
+                "desc":"TVPanasonic "
+            },
+            {
+                "id":3,
+                "desc":"TVThomson"
+            },
+            {
+                "id":4,
+                "desc":"TVVu"
+            },
+            {
+                "id":5,
+                "desc":"TVRealme"
+            },
+            {
+                "id":6,
+                "desc":"TVMotorola"
+            },
+            {
+                "id":7,
+                "desc":"TVOnePlus"
+            },
+            {
+                "id":8,
+                "desc":"TVsLG"
+            },
+            {
+                "id":9,
+                "desc":"TVTVSony"
+            },
+            {
+                "id":10,
+                "desc":"TVSamsung"
+            },
+            {
+                "id":11,
+                "desc":"TVAndroid"
+            },
+            {
+                "id":12,
+                "desc":"TelevisionIffalcon"
+            },
+            {
+                "id":13,
+                "desc":"TVTvMi"
+            },
+            {
+                "id":14,
+                "desc":"Laptops"
+            },
+            {
+                "id":15,
+                "desc":"Dell latest laptops 2022"
+            },
+            {
+                "id":16,
+                "desc":"HP latest laptops 2022"
+            },
+            {
+                "id":17,
+                "desc":"Infinix"
+            },
+            {
+                "id":18,
+                "desc":"INBook X1 Neo Series Celeron Quad Core - (8 GB/256 GB SSD/Windows 11 Home)"
+            }, 
+            {
+                "id":19,
+                "desc":"XL22 Thin and Light Laptop"
+            },
+            {
+                "id":20,
+                "desc":"Microsoft Laptops"
+            },
+            {
+                "id":21,
+                "desc":"12th Gen Intel Core Laptops"
+            }            
+        ]
+        
+    }
+
+   
+]
