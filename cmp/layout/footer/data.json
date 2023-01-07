@@ -135,8 +135,7 @@
                 "id":33,
                 "desc":"Flipkart Pay Later"
             }           
-        ]
-        
+        ]      
     },
     {
         "id":"2",
@@ -235,23 +234,23 @@
                 "desc":"4G Mobile"
             },
             {
-                "id":53 ,
+                "id":25 ,
                 "desc":"Nokia Mobile"
             },
             {
-                "id":25,
+                "id":26,
                 "desc":"Samsung Mobile"
             },
             {
-                "id":26,
+                "id":27,
                 "desc":"iphone"
             },
             {
-                "id":27,
+                "id":28,
                 "desc":"Oppo Mobile"
             },
             {
-                "id":28,
+                "id":29,
                 "desc":"Vivo Mobile"
             } 
         ]
@@ -562,7 +561,705 @@
             }            
         ]
         
-    }
-
-   
+    },
+    {
+        "id":"7",
+        "title":"LARGE APPLIANCES",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"TV & Appliances End of Season Sale"
+            },
+            {
+                "id":2,
+                "desc":"Television"
+            },
+            {
+                "id":3,
+                "desc":"RefrigeratorsAir"
+            },
+            {
+                "id":4,
+                "desc":"ConditionersElectric"
+            },
+            {
+                "id":5,
+                "desc":"CookersElectric Jug(Heater) / Travel Kettles"
+            },
+            {
+                "id":6,
+                "desc":"Induction Cooktops"
+            },
+            {
+                "id":7,
+                "desc":"Inverters / stabilizer"
+            },
+            {
+                "id":8,
+                "desc":"Irons / Iron"
+            },
+            {
+                "id":9,
+                "desc":"BoxMixer"
+            },
+            {
+                "id":10,
+                "desc":"Grinder Juicer"
+            },
+            {
+                "id":11,
+                "desc":"Wet Grinders"
+            },
+            {
+                "id":12,
+                "desc":"Chimneys"
+            },
+            {
+                "id":13,
+                "desc":"Microwave OvensVacuum"
+            },
+            {
+                "id":14,
+                "desc":"CleanersWater"
+            },
+            {
+                "id":15,
+                "desc":"Purifier"
+            },
+            {
+                "id":16,
+                "desc":"FanMarQ Customer Care"
+            } 
+        ]
+        
+    }, 
+    {
+        "id":"8",
+        "title":"CLOTHING",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"Men Shirts"
+            },
+            {
+                "id":2,
+                "desc":"Kurta Pajama"
+            },
+            {
+                "id":3,
+                "desc":"KurtasMen"
+            },
+            {
+                "id":4,
+                "desc":"T-Shirts"
+            },
+            {
+                "id":5,
+                "desc":"Jeans"
+            },
+            {
+                "id":6,
+                "desc":"Saree"
+            },
+            {
+                "id":7,
+                "desc":"Dresses Kids"
+            },
+            {
+                "id":8,
+                "desc":"Dresses Designer Salwar"
+            },
+            {
+                "id":9,
+                "desc":"Suits Bra Designer"
+            },
+            {
+                "id":10,
+                "desc":"Kurtis Track"
+            },
+            {
+                "id":11,
+                "desc":"Pant Men"
+            },
+            {
+                "id":12,
+                "desc":"Kurtas Gym"
+            },
+            {
+                "id":13,
+                "desc":"Wear Party Dresses"
+            },
+            {
+                "id":14,
+                "desc":"Palazzo"
+            },
+            {
+                "id":15,
+                "desc":"Suits Boys"
+            },
+            {
+                "id":16,
+                "desc":"Clothing Gloves"
+            },
+            {
+                "id":17,
+                "desc":"Nighty Maxi"
+            },
+            {
+                "id":18,
+                "desc":"Dresses Anarkali"
+            },
+            {
+                "id":19,
+                "desc":"Gowns Culottes"
+            },
+            {
+                "id":20,
+                "desc":"Salwar Suits"
+            },
+            {
+                "id":21,
+                "desc":"Kurtis Designer"
+            },
+            {
+                "id":22,
+                "desc":"Sarees Leggings"
+            },
+            {
+                "id":23,
+                "desc":"Shorts Georgette"
+            },
+            {
+                "id":24,
+                "desc":"Sarees Ethnic"
+            },
+            {
+                "id":25,
+                "desc":"Wear Briefs & Trunks Nike"
+            },
+            {
+                "id":26,
+                "desc":"Watches Ascot"
+            },
+            {
+                "id":27,
+                "desc":"Tie Corset"
+            },
+            {
+                "id":28,
+                "desc":"Tops Tunics"
+            },
+            {
+                "id":29,
+                "desc":"Leather PU Skirts"
+            },
+            {
+                "id":30,
+                "desc":"Corset tops camisoles"
+            },
+            {
+                "id":31,
+                "desc":"Women magenta earrings"
+            },
+            {
+                "id":32,
+                "desc":"No collar jackets"
+            },
+            {
+                "id":33,
+                "desc":"Green dress"
+            },
+            {
+                "id":34,
+                "desc":"material Black patiala kurta set"
+            },
+            {
+                "id":35,
+                "desc":"Men camel shoes casual"
+            },
+            {
+                "id":36,
+                "desc":"Black pathani"
+            },
+            {
+                "id":37,
+                "desc":"Tassel Sarees"
+            },
+            {
+                "id":38,
+                "desc":"Khaki dresses"
+            },
+            {
+                "id":39,
+                "desc":"Kids formal dresses"
+            },
+            {
+                "id":40,
+                "desc":"Mauve shirts"
+            },
+            {
+                "id":41,
+                "desc":"Women henleyuppada pattu sarees"
+            }
+        ]       
+    },
+    {
+        "id":"8",
+        "title":"FOOTWEAR",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"Shoes Adidas"
+            },
+            {
+                "id":2,
+                "desc":"Shoes Reebok"
+            },
+            {
+                "id":3,
+                "desc":"ShoesNike Shoes"
+            },
+            {
+                "id":4,
+                "desc":"Puma Shoes"
+            },
+            {
+                "id":5,
+                "desc":"Boots Bata"
+            },
+            {
+                "id":6,
+                "desc":"Shoes Woodland"
+            },
+            {
+                "id":7,
+                "desc":"Shoes Skechers"
+            },
+            {
+                "id":8,
+                "desc":"Shoes Sneakers"
+            },
+            {
+                "id":9,
+                "desc":"Womens Boots"
+            },
+            {
+                "id":10,
+                "desc":"Sports Shoes"
+            },
+            {
+                "id":11,
+                "desc":"Loafers"
+            },
+            {
+                "id":12,
+                "desc":"Sandals Lotto Sports"
+            },
+            {
+                "id":13,
+                "desc":"Shoes Casual"
+            },
+            {
+                "id":14,
+                "desc":"Shoes Womens Skechers"
+            },
+            {
+                "id":15,
+                "desc":"Shoes Asics Sports"
+            },
+            {
+                "id":16,
+                "desc":"Shoes Formal"
+            },
+            {
+                "id":17,
+                "desc":"School Shoes"
+            },
+            {
+                "id":18,
+                "desc":"Shoes"
+            } 
+        ]       
+    },
+    {
+        "id":"9",
+        "title":"GROCERIES",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"PhonePe"
+            },
+            {
+                "id":2,
+                "desc":"Grocery Voucher"
+            },
+            {
+                "id":3,
+                "desc":"Hand Wash"
+            },
+            {
+                "id":4,
+                "desc":"Soap Cashew"
+            },
+            {
+                "id":5,
+                "desc":"NutsSun"
+            },
+            {
+                "id":6,
+                "desc":"flower OilEggs"
+            },
+            {
+                "id":7,
+                "desc":"Harpic Toilet Cleaner"
+            },
+            {
+                "id":8,
+                "desc":"Dettol Soap"
+            },
+            {
+                "id":9,
+                "desc":"Mustard Oil"
+            },
+            {
+                "id":10,
+                "desc":"Biscuits"
+            },
+            {
+                "id":11,
+                "desc":"Cheese Patanjali"
+            },
+            {
+                "id":12,
+                "desc":"Atta Fortune"
+            },
+            {
+                "id":14,
+                "desc":"Aashirvaad AttaTea"
+            } 
+        ]       
+    },
+    {
+        "id":"10",
+        "title":"BEST SELLING ON FLIPKART",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"Fire-Boltt Ninja Calling Pro"
+            },
+            {
+                "id":2,
+                "desc":"Bluetooth Calling Smartwatch 1.69 inch HD Display Smartwatch"
+            },
+            {
+                "id":3,
+                "desc":"Best Gas Geyser"
+            },
+            {
+                "id":4,
+                "desc":"Kitchen Geyser"
+            },
+            {
+                "id":5,
+                "desc":"Nutri"
+            },
+            {
+                "id":6,
+                "desc":"Blenders"
+            },
+            {
+                "id":7,
+                "desc":"Portable Air Cooler"
+            },
+            {
+                "id":8,
+                "desc":"Best Air Cooler"
+            },
+            {
+                "id":9,
+                "desc":"Bags"
+            },
+            {
+                "id":10,
+                "desc":"Hitachi"
+            },
+            {
+                "id":11,
+                "desc":"Refrigerator 3 Door"
+            },
+            {
+                "id":12,
+                "desc":"Books"
+            },
+            {
+                "id":13,
+                "desc":"Toys"
+            },
+            {
+                "id":14,
+                "desc":"Candles"
+            },
+            {
+                "id":15,
+                "desc":"Helmets"
+            },
+            {
+                "id":16,
+                "desc":"Wall"
+            },
+            {
+                "id":17,
+                "desc":"Clocks"
+            },
+            {
+                "id":18,
+                "desc":"Baby"
+            },
+            {
+                "id":19,
+                "desc":"Food"
+            },
+            {
+                "id":20,
+                "desc":"Chocolates"
+            },
+            {
+                "id":21,
+                "desc":"Cycles"
+            },
+            {
+                "id":22,
+                "desc":"Calculators"
+            },
+            {
+                "id":23,
+                "desc":"Lipsticks"
+            },
+            {
+                "id":24,
+                "desc":"Mask"
+            },
+            {
+                "id":25,
+                "desc":"Vertiv"
+            },
+            {
+                "id":26,
+                "desc":"UPS"
+            },
+            {
+                "id":27,
+                "desc":"Fastrack"
+            },
+            {
+                "id":28,
+                "desc":"Watches"
+            },
+            {
+                "id":29,
+                "desc":"Wallets"
+            },
+            {
+                "id":30,
+                "desc":"Earrings"
+            },
+            {
+                "id":31,
+                "desc":"Gold"
+            },
+            {
+                "id":32,
+                "desc":"Coins"
+            },
+            {
+                "id":33,
+                "desc":"Realme"
+            },
+            {
+                "id":34,
+                "desc":"Pad"
+            },
+            {
+                "id":35,
+                "desc":"Handbagsconekt"
+            },
+            {
+                "id":36,
+                "desc":"SW2 Smartwatch"
+            },
+            {
+                "id":37,
+                "desc":"Mivi DuoPods a350"
+            },
+            {
+                "id":38,
+                "desc":"Speaker"
+            },
+            {
+                "id":39,
+                "desc":"Cleaner"
+            } 
+        ]
+        
+    },
+    {
+        "id":"11",
+        "title":"FURNITURE",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"Furniture"
+            },
+            {
+                "id":2,
+                "desc":"Sofas"
+            },
+            {
+                "id":3,
+                "desc":"Beds"
+            },
+            {
+                "id":4,
+                "desc":"Dining sets"
+            },
+            {
+                "id":5,
+                "desc":"Wardrobes"
+            },
+            {
+                "id":6,
+                "desc":"Mattresses"
+            },
+            {
+                "id":7,
+                "desc":"TV Units"
+            },
+            {
+                "id":8,
+                "desc":"Tables"
+            },
+            {
+                "id":9,
+                "desc":"Chairs"
+            },
+            {
+                "id":10,
+                "desc":"Shelves"
+            },
+            {
+                "id":11,
+                "desc":"Bean"
+            },
+            {
+                "id":12,
+                "desc":"BagsOffice"
+            },
+            {
+                "id":13,
+                "desc":"Chairs"
+            },
+            {
+                "id":14,
+                "desc":"Computer Table"
+            },
+            {
+                "id":15,
+                "desc":"Office Tables"
+            },
+            {
+                "id":16,
+                "desc":"Red Sofa"
+            },
+            {
+                "id":17,
+                "desc":"Wakefit Beds"
+            },
+            {
+                "id":18,
+                "desc":"White Sofa"
+            },
+            {
+                "id":19,
+                "desc":"Wakefit Mattress"
+            },
+            {
+                "id":20,
+                "desc":"Green Sofa"
+            },
+            {
+                "id":21,
+                "desc":"Black Sofa"
+            },
+            {
+                "id":22,
+                "desc":"Brown Sofa"
+            }           
+        ]
+    },
+    {
+        "id":"12",
+        "title":"BGMH",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"Whey Protein"
+            },
+            {
+                "id":2,
+                "desc":"Homeopathy"
+            },
+            {
+                "id":3,
+                "desc":"Bounce Infinity"
+            },
+            {
+                "id":4,
+                "desc":"Christmas Gifts"
+            },
+            {
+                "id":5,
+                "desc":"Calendar 2023"
+            },
+            {
+                "id":6,
+                "desc":"Online Guitar"
+            },
+            {
+                "id":7,
+                "desc":"Books Store"
+            },
+            {
+                "id":8,
+                "desc":"Musical Instrument StoreDabur Chyawanprash"
+            },
+            {
+                "id":9,
+                "desc":"Baidyanath Chyawanprash"
+            },
+            {
+                "id":10,
+                "desc":"Energy DrinksToys"
+            },
+            {
+                "id":11,
+                "desc":"Milk Drink Mixes"
+            },
+            {
+                "id":12,
+                "desc":"Rakhi"
+            },
+            {
+                "id":13,
+                "desc":"Chyawanprash"
+            },
+            {
+                "id":14,
+                "desc":"Indian Flag"
+            },
+            {
+                "id":15,
+                "desc":"Protein Supplements"
+            }     
+        ]
+    }  
 ]
