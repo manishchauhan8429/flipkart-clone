@@ -1,0 +1,178 @@
+[
+    {
+        "id":1,
+        "title":"ABOUT",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"Contact Us"
+            },
+            {
+                "id":2,
+                "desc":"About Us"
+            },
+            {
+                "id":3,
+                "desc":"Careers"
+            },
+            {
+                "id":4,
+                "desc":"Flipkart Stories"
+            },
+            {
+                "id":5,
+                "desc":"Press"
+            },
+            {
+                "id":6,
+                "desc":"Flipkart Wholesale"
+            },
+            {
+                "id":7,
+                "desc":"Corporate Information"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "title":"HELP",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"Payments"
+            },
+            {
+                "id":2,
+                "desc":"Shipping"
+            },
+            {
+                "id":3,
+                "desc":"Cancellation & Returns"
+            },
+            {
+                "id":4,
+                "desc":"FAQ"
+            },
+            {
+                "id":5,
+                "desc":"Report Infrigment"
+            } 
+        ]
+    },
+    {
+        "id":3,
+        "title":"POLICY",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"Return Polciy"
+            },
+            {
+                "id":2,
+                "desc":"Turnm Of Use"
+            },
+            {
+                "id":3,
+                "desc":"Security"
+            },
+            {
+                "id":4,
+                "desc":"Privacy"
+            },
+            {
+                "id":5,
+                "desc":"Stamp"
+            },
+            {
+                "id":6,
+                "desc":"EPR Compliace"
+            } 
+        ]
+    },
+    {
+        "id":4,
+        "title":"SOCIAL",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"FeacBook"
+            },
+            {
+                "id":2,
+                "desc":"Twitter"
+            },
+            {
+                "id":3,
+                "desc":"YouTube"
+            } 
+        ]
+    },
+    {
+        "id":5,
+        "title":"Mail Us",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"Flipkart Internet Private Limited,"
+            },
+            {
+                "id":2,
+                "desc":"Buildings Alyssa, Begonia &"
+            },
+            {
+                "id":3,
+                "desc":"Clove Embassy Tech Village"
+            },
+            {
+                "id":4,
+                "desc":"Outer Ring Road, Devarabeesanahalli Village,"
+            },
+            {
+                "id":5,
+                "desc":"Bengaluru, 560103,"
+            },
+            {
+                "id":6,
+                "desc":"Karnataka, India"
+            } 
+        ]
+    },
+    {
+        "id":1,
+        "title":"Registered Office Address:",
+        "subtitle":[
+            {
+                "id":1,
+                "desc":"Flipkart Internet Private Limited,"
+            },
+            {
+                "id":2,
+                "desc":"Buildings Alyssa, Begonia &"
+            },
+            {
+                "id":3,
+                "desc":"Clove Embassy Tech Village,"
+            },
+            {
+                "id":4,
+                "desc":"Outer Ring Road, Devarabeesanahalli Village,"
+            },
+            {
+                "id":5,
+                "desc":"Bengaluru, 560103"
+            },
+            {
+                "id":6,
+                "desc":"Karnataka, India"
+            },
+            {
+                "id":7,
+                "desc":"CIN : U51109KA2012PTC066107"
+            }, 
+            {
+                "id":8,
+                "desc":"Telephone: 044-45614700"
+            }
+        ]
+    }
+]
