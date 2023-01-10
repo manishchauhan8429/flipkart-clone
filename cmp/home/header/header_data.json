@@ -1,0 +1,108 @@
+[
+    {
+        "id":1,
+        "title":"Grocery",
+        "pic":"/surf_tee.png",
+        "dropdown": false
+    },
+    {
+        "id":2,
+        "title":"Mobile",
+        "pic":"/mobile.png",
+        "dropdown": false
+    },
+    {
+        "id":3,
+        "title":"Fashion",
+        "pic":"/cuple.png",      
+        "dropdown": true,
+        "dropdownMenu": [
+              {
+                "id":1,
+                "subtitle":"Men's Top Wear"
+              },
+              {
+                "id":2,
+                "subtitle":"Men's Bottom Wear"
+              },
+              {
+                "id":3,
+                "subtitle":"Women Ethnic"
+              },
+              {
+                "id":4,
+                "subtitle":"Women Western"
+              },
+              {
+                "id":5,
+                "subtitle":"Men Footewear"
+              },
+              {
+                "id":6,
+                "subtitle":"Women Footwear"
+              },
+              {
+                "id":7,
+                "subtitle":"Watches and Accessories"
+              },
+              {
+                "id":8,
+                "subtitle":"Bags,suitcases & Luggages"
+              },
+              {
+                "id":9,
+                "subtitle":"kids"
+              },
+              {
+                "id":10,
+                "subtitle":"Essentials"
+              },
+              {
+                "id":11,
+                "subtitle":"Winter"
+              }
+        ]          
+    },
+    {
+        "id":4,
+        "title":"Electronics",
+        "pic":"/laptop.png",
+        "dropdown": false           
+    },
+    {
+        "id":5,
+        "title":"Home",
+        "pic":"/chair.jpg",
+        "dropdown": false           
+    },
+    {
+        "id":6,
+        "title":"Appliances",
+        "pic":"/washing.png",
+        "dropdown": false           
+    },
+    {
+        "id":7,
+        "title":"Travel",
+        "pic":"/airplane.png",
+        "dropdown": false           
+    },
+    {
+        "id":8,
+        "title":"Tops Offers",
+        "pic":"/gift.png",
+        "dropdown": false           
+    },
+    {
+        "id":9,
+        "title":"Beauty,Toys & More",
+        "pic":"/toys.png",
+        "dropdown": false           
+    },
+    {
+        "id":10,
+        "title":"Tow wheelers",
+        "pic":"/bike.png",
+         "dropdown": false           
+    }
+]

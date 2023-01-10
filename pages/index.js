@@ -1,9 +1,9 @@
 import Layout from "../cmp/layout";
-
+import Home from "../cmp/home"; 
 const Index = ()=>(
     <>
     <Layout>
-      <h1>homepage</h1>
+      <Home />
     </Layout>
     </>
 )

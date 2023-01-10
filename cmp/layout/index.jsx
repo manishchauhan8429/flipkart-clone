@@ -5,7 +5,7 @@ const Layout = ({children})=>(
     <>
         <Navbar />
             <Box sx={{bgcolor:"#F1F3F6"}}>
-             {children}
+              {children}           
             </Box>
         <Footer />
     </>
