@@ -19,55 +19,103 @@
         "dropdownMenu": [
               {
                 "id":1,
-                "subtitle":"Men's Top Wear"
-              },
-              {
-                "id":2,
-                "subtitle":"Men's Bottom Wear"
+                "subtitle":"Men's Top Wear",
+                "dropdown":true,
+                "dropdownMenu":[
+                  {
+                    "id":1,
+                    "deeptitle":"All"
+                  },
+                  {
+                    "id":2,
+                    "deeptitle":"Men's T-Shirts"
+                  },
+                  {
+                    "id":3,
+                    "deeptitle":"Men's Formal Shirts"
+                  },
+                  {
+                    "id":4,
+                    "deeptitle":"Men's Kutas"
+                  },
+                  {
+                    "id":5,
+                    "deeptitle":"Men's Ethnic Sets"
+                  },
+                  {
+                    "id":6,
+                    "deeptitle":"Men's Blazers"
+                  },
+                  {
+                    "id":8,
+                    "deeptitle":"Men's Raincoat"
+                  },
+                  {
+                    "id":8,
+                    "deeptitle":"Men's Suit"
+                  },
+                  {
+                    "id":8,
+                    "deeptitle":"Men's Windcheaters"
+                  }
+           
+                  
+                ]
+              
               },
               {
                 "id":3,
-                "subtitle":"Women Ethnic"
+                "subtitle":"Women Ethnic",
+                "dropdown":false 
               },
               {
                 "id":4,
-                "subtitle":"Women Western"
+                "subtitle":"Women Western",
+                "dropdown":false 
+                 
               },
               {
                 "id":5,
-                "subtitle":"Men Footewear"
+                "subtitle":"Men Footewear",
+                 "dropdown":false 
               },
               {
                 "id":6,
-                "subtitle":"Women Footwear"
+                "subtitle":"Women Footwear",
+                "dropdown":false 
               },
               {
                 "id":7,
-                "subtitle":"Watches and Accessories"
+                "subtitle":"Watches and Accessories",
+                "dropdown":false 
+                 
               },
               {
                 "id":8,
-                "subtitle":"Bags,suitcases & Luggages"
+                "subtitle":"Bags,suitcases & Luggages",
+                "dropdown":false 
+                 
               },
               {
                 "id":9,
-                "subtitle":"kids"
+                "subtitle":"kids",
+                "dropdown":false 
+                 
               },
               {
                 "id":10,
-                "subtitle":"Essentials"
-              },
-              {
-                "id":11,
-                "subtitle":"Winter"
+                "subtitle":"Essentials",
+                "dropdown":false
+                
               }
+            
         ]          
     },
     {
         "id":4,
         "title":"Electronics",
         "pic":"/laptop.png",
-        "dropdown": false           
+        "dropdown": false      
     },
     {
         "id":5,

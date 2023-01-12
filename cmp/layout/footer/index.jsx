@@ -8,7 +8,7 @@ const Footer = ()=>(
         <span className="font-bold text-sm text-[#515151]"> Brand Directory</span>
     </p>
     {
-        data.map((item,index)=>(
+        data.map((item,index)=>(        
             <p 
                 key={index}
                 className="text-sm font-medium text-[#787878]"
