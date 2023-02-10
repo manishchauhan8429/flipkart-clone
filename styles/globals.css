@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import "./carousel.css"; 
 * {
   box-sizing: border-box;
   padding: 0;
