@@ -3,20 +3,30 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { ArrowForwardIos,ArrowBackIos } from "@mui/icons-material";
+let slideToShow = 4;
 const NextBtn = (props) =>{
-    const {className, onClick} = props;
+    const {className, onClick,slideCount, currentSlide} = props;
+    console.log(props);
     return(
-        <div className={className} onClick={onClick}>
-            <ArrowForwardIos style={{color:"black"}} className="m:0" />
-        </div>
+        <>
+            {currentSlide !== slideCount - 4 && (
+                            <div className={className} onClick={onClick}>
+                    <ArrowForwardIos style={{color:"black"}} className="m:0" />
+                </div>
+            )}
+        </>
     );
 };
 const PreviousBtn = (props) =>{
-    const {className, onClick} = props; 
+    const {className, onClick ,currentSlide} = props; 
     return(
-        <div className={className} onClick={onClick}>
+        <>{currentSlide !==0 && (
+          <div className={className} onClick={onClick}>
             <ArrowBackIos style={{color:"black" }} />
         </div>
+        )}
+        </>
+      
     );
 };
 const Offer = () =>(
@@ -36,7 +46,7 @@ const Offer = () =>(
         <Slider  
             infinite={false}
             speed={500}
-            slidesToShow={4}
+            slidesToShow ={slideToShow}
             slidesToScroll={4}
             pauseOnHover = {true}
             prevArrow={<PreviousBtn />}

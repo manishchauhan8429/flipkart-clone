@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "pic":"/printer.jpeg",
+        "props":"Printers",
+        "price":"3999",
+        "com":"HP"
+        
+    },
+    {
+        "id":2,
+        "pic":"/nikon_camara.jpeg",
+        "props":"To Mirrorless Cameras",
+        "price":"15999",
+        "com":"Conon,Sony,Fujifilm"
+    },
+    {
+        "id":3,
+        "pic":"/lenvo_desktop.jpeg",
+        "props":"Monitors",
+        "price":"7949",
+        "com":"Lenovo"
+    },
+    {
+        "id":4,
+        "pic":"/philips.jpeg",
+        "props":"Best of Shavers",
+        "price":"1,649",
+        "com":"Philips & Hevells"
+    },
+    {
+        "id":5,
+        "pic":"/headphone.jpeg",
+        "props":"Headphone",
+        "price":"999",
+        "com":"Bell"
+        
+    },
+    {
+        "id":6,
+        "pic":"/pcdesktop.jpeg",
+        "props":"Monitors",
+        "price":"9999",
+        "com":"SAMSUNG"
+        
+    },
+    {
+        "id":8,
+        "pic":"/lcdtv.jpeg",
+        "props":"Monitor",
+        "price":"8279",
+        "com":"Dell"
+        
+    },
+    {
+        "id":9,
+        "pic":"/projector.jpeg",
+        "props":"Projector",
+        "price":"29999",
+        "com":"ZEBRONICS"
+        
+    } 
+]
